@@ -1,0 +1,1 @@
+console.log('Please run the assignment.spec to test given use cases');
